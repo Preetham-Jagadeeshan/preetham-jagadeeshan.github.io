@@ -5,4 +5,4 @@ published: true
 ---
 # This is your first block with Jekyll
 
-## Congradulations.
+## Congratulations.
